@@ -4,6 +4,9 @@
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
+  <a href="https://shielded-stream-02459.herokuapp.com/" target="_blank">
+    <img alt="Live Demo" src="https://img.shields.io/badge/demo-online-green.svg" />
+  </a>
 </p>
 
 > Yelpcamp is web application that allows users explore various campgrounds, share there own and comment on others
@@ -28,7 +31,7 @@
 .
 ![User Features](https://firebasestorage.googleapis.com/v0/b/emailsign-70c77.appspot.com/o/yelpcampreview.PNG?alt=media&token=b1b5f383-0dac-4361-8eef-0a07f3ca1f49)
 
-#### There are 3 admin levels:
+#### There are 2 admin levels:
 - **User:** Can view and add campgrounds, leave a review, add a rating and delete a review
 - **Administrator:** All the above plus and also can remove users  
 
